@@ -26,11 +26,11 @@ Pour le minishell 1, il est demandé :
 
 Pour compiler ce projet, il vous suffit de vous rendre a la racine et de lancer la commande :
 
-    - `make`
+    `make`
 
 Cette commande va vous générez un binaire qu'il suffira ensuite de lancer grace a la commande :
 
-    - `./mysh`
+    `./mysh`
 
 ## Utilisation
 
