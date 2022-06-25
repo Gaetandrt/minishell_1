@@ -10,11 +10,12 @@ Un shell Unix est un interpréteur de commandes destiné aux systèmes d'exploit
 
 ## Minishell by Epitech
 
-Le but de ce projet et de s'appuyer sur le shell TCSH comme exemple, et de reproduire le fonctionnement de celui ci.
+Le but de ce projet est de s'appuyer sur le shell TCSH comme exemple, et de reproduire le fonctionnement de celui ci.
 
 Pour le minishell 1, il est demandé :
-    - Créer les fonctions builtins (cd, env, setenv, unsetenv)
-    - Pouvoir exécuter n'importe quel binaire présent dans le PATH
+
+- Créer les fonctions builtins (cd, env, setenv, unsetenv)
+- Pouvoir exécuter n'importe quel binaire présent dans le PATH
 
 ### Compétences travaillées
 
